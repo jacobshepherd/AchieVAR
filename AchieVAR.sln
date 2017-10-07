@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AchieVAR", "AchieVAR.csproj", "{C74B3669-0FB4-582D-1D18-AD33D6858DC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AchieVAR.Editor", "AchieVAR.Editor.csproj", "{EC4C31C3-99D4-8B96-A7A9-6986116BE902}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C74B3669-0FB4-582D-1D18-AD33D6858DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74B3669-0FB4-582D-1D18-AD33D6858DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74B3669-0FB4-582D-1D18-AD33D6858DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74B3669-0FB4-582D-1D18-AD33D6858DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4C31C3-99D4-8B96-A7A9-6986116BE902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4C31C3-99D4-8B96-A7A9-6986116BE902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4C31C3-99D4-8B96-A7A9-6986116BE902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4C31C3-99D4-8B96-A7A9-6986116BE902}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
