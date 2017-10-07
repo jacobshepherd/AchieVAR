@@ -1,0 +1,1 @@
+C:\Development\HoloLens\AchieVAR\Build\AchieVAR\AchieVAR.csproj;x86

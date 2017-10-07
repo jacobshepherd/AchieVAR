@@ -514,11 +514,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: AchieVAR
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 00bd0a9e9c5ed401
   metroApplicationDescription: AchieVAR
   wsaImages: {}
   metroTileShortName: 
