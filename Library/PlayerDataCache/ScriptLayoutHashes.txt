@@ -179,6 +179,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 3f32f08a64daf40b09ed864d96fe3840 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransform
 73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
+6f5d45e9f4db67005b4e9120a0c1905c Assembly-CSharp.dll:.Manager
 8ca576c972bd57e38603bfb05a241fae Assembly-CSharp.dll:HoloToolkit.Unity.AudioEmitter
 5affa557520c9b1ad67d2162d963829a Assembly-CSharp.dll:HoloToolkit.UI.Keyboard.UICollection
 879063d7d5671c10b459efdc92d497b0 Assembly-CSharp.dll:HoloToolkit.Unity.InputModule.TapToPlace
@@ -214,4 +215,3 @@ d5caa5c507202d113c0e7f0a26ca4bba Assembly-CSharp.dll:HoloToolkit.Unity.AudioOccl
 186cc323f9f1e9ce3dbc3cb69a7ece5f Assembly-CSharp.dll:HoloToolkit.Unity.FixedAngularSize
 c200d5e5157786d95373f6cec9caf166 Assembly-CSharp.dll:HoloToolkit.Unity.SpatialMapping.SurfacePlane
 294210f7e02f750ff0f7733d3ee18691 Assembly-CSharp.dll:HoloToolkit.Sharing.VoiceChat.MicrophoneReceiver
-6f5d45e9f4db67005b4e9120a0c1905c Assembly-CSharp.dll:.Manager
